@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KanDownloadmp3_V5", "KanDownloadmp3_V5\KanDownloadmp3_V5.vcxproj", "{618C602C-F790-43A6-9BF4-22F23A4B53AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{618C602C-F790-43A6-9BF4-22F23A4B53AC}.Debug|x64.ActiveCfg = Debug|x64
+		{618C602C-F790-43A6-9BF4-22F23A4B53AC}.Debug|x64.Build.0 = Debug|x64
+		{618C602C-F790-43A6-9BF4-22F23A4B53AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{618C602C-F790-43A6-9BF4-22F23A4B53AC}.Debug|x86.Build.0 = Debug|Win32
+		{618C602C-F790-43A6-9BF4-22F23A4B53AC}.Release|x64.ActiveCfg = Release|x64
+		{618C602C-F790-43A6-9BF4-22F23A4B53AC}.Release|x64.Build.0 = Release|x64
+		{618C602C-F790-43A6-9BF4-22F23A4B53AC}.Release|x86.ActiveCfg = Release|Win32
+		{618C602C-F790-43A6-9BF4-22F23A4B53AC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {298FF66D-C651-4C21-853B-C7277ED3E64D}
+	EndGlobalSection
+EndGlobal
