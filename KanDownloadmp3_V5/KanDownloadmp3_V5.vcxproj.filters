@@ -29,7 +29,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\KanDownloadmp3_V5.cpp">
+    <ClCompile Include="KanDownloadmp3_V5.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
   </ItemGroup>
